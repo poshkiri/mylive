@@ -64,16 +64,6 @@
 - ✅ Админ-панель с модерацией
 - ✅ 85+ обработчиков, 11 моделей БД
 
-[📖 Подробнее →](https://github.com/poshkiri/dating-bot)
-
----
-
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poshkiri&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poshkiri&layout=compact&theme=radical&hide_border=true)
-
 ---
 
 ## 🎯 Ключевые навыки
